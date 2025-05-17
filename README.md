@@ -1,0 +1,3 @@
+En el tp 3, todo en orden, los primeros 2 ejercicios no vi la necesidad de utilizar poo a pesar de que venimos trabajando con eso, yo creo que estan bien planteados pero se puede mejorar, en el ejercicio 3 si tuve muchas complicaciones porque jamas habia praccticado 
+algo asi, me tomo 2 dias hacerlo, le pedi ayuda a la Ia en situaciones que no podia resolver como el hastag al final y el arroba del usuario, en el ejercicio 4 tome un poco de base de lo que hice anteriormente, realice un menu sencillo para mas comodidad, tuve un
+problema al final casi cuando ya me encontraba realizando el Main, el condicional que habia hecho me rompia el codigo y tuve que pedir ayuda a la Ia, pero quedo bien con lo que me paso. espero le guste
