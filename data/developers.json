@@ -1,0 +1,13 @@
+[ {
+  "nombre" : "Samuel Rojo",
+  "contraseña" : "mibebefelipe2022",
+  "rol" : "Backend"
+}, {
+  "nombre" : "Martina Lopez",
+  "contraseña" : "Lomitoespecial12321",
+  "rol" : "Frontend"
+}, {
+  "nombre" : "Juan Gonzales",
+  "contraseña" : "223445532453242",
+  "rol" : "Tester"
+} ]
